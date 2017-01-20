@@ -1,2 +1,2 @@
 # HelloBB
-Say hello to BeagleBone 
+Say hello to BeagleBone, my taking notes.
